@@ -35,7 +35,7 @@
 + [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
 + [Iziday](https://www.iziday.com/) (commission 12%)
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/) (commission variable)
-+ [Malt](https://www.malt.fr/) (commission 10%)
++ [Malt](https://www.malt.fr/) (commission 10% puis 5% au bout de 3 mois, et 2% pour ses propres clients)
 + [Popcorn](https://popcorn-nantes.github.io/popcorns) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
